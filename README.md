@@ -1,9 +1,7 @@
 # PRACTICE
-```#include <iostream>
+```COMMNADS TO INSTALL
 cjvjhdfvjhdkjvhdkjvhsksdhvdsv
 fgjfkhglkhdsgojhfs
-
 kdjsgklshdojhj
-
 ```
 
